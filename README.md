@@ -54,7 +54,7 @@ Como punto importante Javascript tiene una basta comunidad de desarrolladores qu
 - También puedes desarrollar del lado del backend con el entorno de ejecución NodeJS para manipular las operaciones del sistema operativo así como herramientas de IoT.
 <br>
 <div align="center"> 
-  <img src="readme_img/javascript-frameworks.png.jpg" height="200">
+  <img src="readme_img/javascript-frameworks.png" height="200">
   <h5>Frameworks de Javascript.</h5>
 </div>
 <br>
