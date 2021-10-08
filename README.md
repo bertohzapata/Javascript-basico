@@ -16,9 +16,7 @@ El contenido de este documenta está basado el curso por  [Diego de Granada](htt
 - [Introducción a Javascript](#introducción-a-javascript)
   - [¿Qué es Javascript](#qué-es-javascript)
   - [¿Por qué Javascript?](#por-qué-javascript)
-  - [Variables Funciones y Sintaxis](#variables-funciones-y-sintaxis)
-
-
+  
 # Introducción a Javascript
 ## ¿Qué es Javascript
 Nace de la necesidad de generar dinamismo ya que la web en sus inicios era muy estática. De esta manera los usuarios y empresas podían interactuar unos con otros.
@@ -57,5 +55,3 @@ Como punto importante Javascript tiene una basta comunidad de desarrolladores qu
   <h5>Frameworks de Javascript.</h5>
 </div>
 <br>
-
-## Variables Funciones y Sintaxis
